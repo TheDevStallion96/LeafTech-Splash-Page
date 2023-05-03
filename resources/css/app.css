@@ -1,0 +1,4 @@
+/* LeafTech Main Stylesheet File - This is the main stylesheet for the LeafTech theme. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
